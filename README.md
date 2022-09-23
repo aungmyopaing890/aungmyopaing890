@@ -16,7 +16,8 @@
 
 - 🌱 I’m currently learning **Flutter, Android Native(java)**
 
-- 💬 Talk to me about I learnt laravel and php for over two year. Now I am trying to be expect in Flutter and mobile development. Programming is just a challenge for me. 
+- 💬 Talk to me about Flutter,Android native(java) and Laravel
+- 💼 I learnt laravel and php for over two year. Now I am trying to be expect in Flutter and mobile development. Programming is just a challenge for me. 
 
 - ⚡ Fun fact **I think I'm funny**
 
