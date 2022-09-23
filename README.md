@@ -2,13 +2,6 @@
 <img width="50%" height = "300px" src="assets/banner.png" alt="cover" />
 </div>
 
-<h1 align='center'> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> < Developers/ >! </h1>
-<p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aungmyopaing890.aungmyopaing890)
-
-
-
 <h2> About Me </h2>
 
 
@@ -21,6 +14,10 @@
 
 - ⚡ Fun fact **I think I'm funny**
 
+<h1 align='center'> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> < Developers/ >! </h1>
+<p align='center'>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aungmyopaing890.aungmyopaing890)
 
 
 <h3 align="left">📫 How to reach me:</h3>
