@@ -54,8 +54,8 @@
 
 
 <br>
-<footer align='center'><div size='20px'> I am Aungmyopaing. Thank You for taking the time to view my GitHub Profile :smile: 
-</div></footer>
+<footer align='center'><i> I am Aungmyopaing. Thank You for taking the time to view my GitHub Profile :smile: 
+</i></footer>
 
 
 
