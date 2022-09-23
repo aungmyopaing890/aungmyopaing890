@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aungmyopaing890.aungmyopaing890)
 
 </p>
-<div size='20px'> Hi! My name is Aungmyopaing. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> I am Aungmyopaing. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me </h2>
@@ -22,7 +22,9 @@
 
 - ⚡ Fun fact **I think I'm funny**
 
-<h3 align="left">Connect with me:</h3>
+
+
+<h3 align="left">📫 How to reach me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in//aungmyo-paing-080160148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in//aungmyo-paing-080160148" height="30" width="40" /></a>
 <a href="https://fb.com/amp942018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amp942018" height="30" width="40" /></a>
