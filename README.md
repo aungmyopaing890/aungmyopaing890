@@ -1,6 +1,4 @@
-<div align="center">
-<img width="50%" height = "300px" src="assets/banner.png" alt="cover" />
-</div>
+
 
 <h1 align='center'> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> < Developers/ >! </h1>
 <p align='center'>
@@ -54,8 +52,9 @@
 
 
 <br>
-<footer align='center'><i> I am Aungmyopaing. Thank You for taking the time to view my GitHub Profile :smile: 
-</i></footer>
+<div align="center">
+<i> I am Aungmyopaing. Thank You for taking the time to view my GitHub Profile :smile:</i>
+</div>
 
 
 
