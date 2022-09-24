@@ -41,6 +41,12 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
+
+<h2> 𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px></h2>  
+
+- AMP POS PlayStore Link <a href="https://play.google.com/store/apps/details?id=com.tps.amppos">View</a>
+- AMP POS AppStore Link <a href="https://apps.apple.com/us/app/amp-pos/id1644138389">View</a>
+
 ![AungMyoPaing's GitHub stats](https://github-readme-stats.vercel.app/api?username=aungmyopaing890&show_icons=true&theme=radical&text_color=black&bg_color=white&title_color=5200bd&icon_color=blue)
 
 
