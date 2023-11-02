@@ -44,8 +44,7 @@
 
 <h2> 𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px></h2>  
 
-- AMP POS PlayStore Link <a href="https://play.google.com/store/apps/details?id=com.tps.amppos">View</a>
-- AMP POS AppStore Link <a href="https://apps.apple.com/us/app/amp-pos/id1644138389">View</a>
+- AMP POS PlayStore Link <a href="https://play.google.com/store/apps/details?id=com.tps.amppos">PlayStore</a>  <a href="https://apps.apple.com/us/app/amp-pos/id1644138389">AppStore</a>
 
 - KweeLaMin PlayStore <a href="https://play.google.com/store/apps/details?id=com.hapeye.kweelamin">View</a>
 - KweeLaMin AppStore <a href="https://apps.apple.com/cy/app/kwee-lamin/id6451135120">View</a>
