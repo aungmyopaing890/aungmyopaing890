@@ -44,32 +44,24 @@
 
 <h2> 𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px></h2>  
 
-- AMP POS PlayStore Link <a href="https://play.google.com/store/apps/details?id=com.tps.amppos">PlayStore</a>  <a href="https://apps.apple.com/us/app/amp-pos/id1644138389">AppStore</a>
+- AMP POS  <a href="https://play.google.com/store/apps/details?id=com.tps.amppos">PlayStore</a>  <a href="https://apps.apple.com/us/app/amp-pos/id1644138389">AppStore</a>
 
-- KweeLaMin PlayStore <a href="https://play.google.com/store/apps/details?id=com.hapeye.kweelamin">View</a>
-- KweeLaMin AppStore <a href="https://apps.apple.com/cy/app/kwee-lamin/id6451135120">View</a>
+- KweeLaMin <a href="https://play.google.com/store/apps/details?id=com.hapeye.kweelamin">PlayStore</a>  <a href="https://apps.apple.com/cy/app/kwee-lamin/id6451135120">AppStore</a>
 
-- BinaryComputerStore PlayStore <a href="https://play.google.com/store/apps/details?id=com.hepeye.binary">View</a>
-- BinaryComputerStore AppStore <a href="https://apps.apple.com/cy/app/binarycomputerstore/id6450131505">View</a>
+- BinaryComputerStore <a href="https://play.google.com/store/apps/details?id=com.hepeye.binary">PlayStore</a>  <a href="https://apps.apple.com/cy/app/binarycomputerstore/id6450131505">AppStore</a>
 
-- EcoChic PlayStore <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.ecochic">View</a>
-- EcoChic AppStore <a href="https://apps.apple.com/cy/app/eco-chic/id6451831578">View</a>
+- EcoChic PlayStore <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.ecochic">PlayStore</a>  <a href="https://apps.apple.com/cy/app/eco-chic/id6451831578">AppStore</a>
 
-- ShwePhoneShein PlayStore <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.shwephoneshein">View</a>
-- ShwePhoneShein AppStore <a href="https://apps.apple.com/cy/app/shwe-phone-shein/id6463791308">View</a>
+- ShwePhoneShein <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.shwephoneshein">PlayStore</a>  <a href="https://apps.apple.com/cy/app/shwe-phone-shein/id6463791308">AppStore</a>
 
-- RoyalCollection PlayStore <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.royalcollection">View</a>
-- RoyalCollection AppStore <a href="https://apps.apple.com/cy/app/royal-collection/id6449526605">View</a>
+- RoyalCollection <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.royalcollection">PlayStore</a>  <a href="https://apps.apple.com/cy/app/royal-collection/id6449526605">AppStore</a>
 
-- Food.com.mm PlayStore <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.food.com.mm">View</a>
-- Food.com.mm AppStore <a href="https://apps.apple.com/cy/app/food-com-mm/id6446515746">View</a>
+- Food.com.mm  <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.food.com.mm">PlayStore</a>  <a href="https://apps.apple.com/cy/app/food-com-mm/id6446515746">AppStore</a>
 
-- Prim Decent PlayStore <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.primedecant">View</a>
-- Prim Decent AppStore <a href="https://apps.apple.com/cy/app/prim-decant/id6447068015">View</a>
+- Prim Decent PlayStore <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.primedecant">PlayStore</a>  <a href="https://apps.apple.com/cy/app/prim-decant/id6447068015">AppStore</a>
 
 
-- WisdomTreeLibrary PlayStore <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.wisdomtree">View</a>
-- WisdomTreeLibrary AppStore <a href="https://apps.apple.com/cy/app/wisdom-tree-library/id6464262162">View</a>
+- WisdomTreeLibrary PlayStore <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.wisdomtree">PlayStore</a>  <a href="https://apps.apple.com/cy/app/wisdom-tree-library/id6464262162">AppStore</a>
 
 
 ![AungMyoPaing's GitHub stats](https://github-readme-stats.vercel.app/api?username=aungmyopaing890&show_icons=true&theme=radical&text_color=black&bg_color=white&title_color=5200bd&icon_color=blue)
