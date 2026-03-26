@@ -11,14 +11,17 @@
 <h2> About Me </h2>
 
 
-- 🔭 I’m currently working on a climate and weather forecast project.
+- 🔭 I’m currently working on a **climate and weather forecasting project**, building data-driven solutions for environmental monitoring and informed decision-making.
 
-- 🌱 I’m currently learning **AI and Data Science with Python**.
+- 🌱 I’m continuously expanding my skills in **Artificial Intelligence and Data Science with Python**, with a strong interest in applying them to real-world challenges such as climate analysis and prediction.
 
-- 💬 Talk to me about **Flutter, Swift, and Laravel**.
-- 💼 I have learned **Laravel and PHP** for over two years. Now I am working to become an expert in Flutter and mobile development. Programming is a fun challenge for me.
+- 💬 I enjoy connecting with others about **Flutter, Swift, and Laravel**, and I’m always open to sharing ideas and learning through collaboration.
 
-- ⚡ Fun fact **I think I'm funny**
+- 💼 I have over **4 years of experience in mobile application development**, with a current focus on building high-quality cross-platform applications using **Flutter**.
+
+- 🚀 I’m currently working across the full stack, developing backend systems with **Python**, frontend applications with **Next.js**, and mobile apps with **Flutter**.
+
+- ⚡ I enjoy solving complex problems through code. Programming is both a passion and a rewarding challenge for me.
 
 
 <h2 align="left">📫 How to reach me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px></h2>
@@ -76,6 +79,5 @@
 <div align="center">
 <i> I am Aungmyopaing. Thank You for taking the time to view my GitHub Profile :smile:</i>
 </div>
-
 
 
