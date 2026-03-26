@@ -4,7 +4,6 @@
 
 <h1 align='center'> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> < Developers/ >! </h1>
 
-<p align='center'>
 <!-- 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aungmyopaing890.aungmyopaing890)
  -->
@@ -12,12 +11,12 @@
 <h2> About Me </h2>
 
 
-- 🔭 I’m currently working on a porject about Gold ecommerce Shop and Medical Project In Company
+- 🔭 I’m currently working on a climate and weather forecast project.
 
-- 🌱 I’m currently learning **Flutter and IOS Swift**
+- 🌱 I’m currently learning **AI and Data Science with Python**.
 
-- 💬 Talk to me about Flutter,Swift and Laravel
-- 💼 I learnt laravel and php for over two year. Now I am trying to be expect in Flutter and mobile development. Programming is just a challenge for me. 
+- 💬 Talk to me about **Flutter, Swift, and Laravel**.
+- 💼 I have learned **Laravel and PHP** for over two years. Now I am working to become an expert in Flutter and mobile development. Programming is a fun challenge for me.
 
 - ⚡ Fun fact **I think I'm funny**
 
@@ -64,13 +63,13 @@
 - WisdomTreeLibrary PlayStore <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.wisdomtree">PlayStore</a>  <a href="https://apps.apple.com/cy/app/wisdom-tree-library/id6464262162">AppStore</a>
 
 
-![AungMyoPaing's GitHub stats](https://github-readme-stats.vercel.app/api?username=aungmyopaing890&show_icons=true&theme=radical&text_color=black&bg_color=white&title_color=5200bd&icon_color=blue)
-
-
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-![Metrics](https://metrics.lecoq.io/aungmyopaing890?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=aungmyopaing890&show_icons=true&theme=default" alt="Aungmyopaing's GitHub stats" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aungmyopaing890&layout=compact&theme=default" alt="Top languages" />
+</p>
 
 
 <br>
