@@ -11,15 +11,15 @@
 <h2> About Me </h2>
 
 
-- 🔭 I’m currently working on a **climate and weather forecasting project**, building data-driven solutions for environmental monitoring and informed decision-making.
+- 🔭 I’m a **Full Stack Developer at Beyond Climate Solutions** (Pathum Thani, Thailand), working on the **CLDB Platform for the Thai Meteorological Department** — Flutter apps backed by Python data workflows and interactive visualisations for climate monitoring and disaster management.
 
-- 🌱 I’m continuously expanding my skills in **Artificial Intelligence and Data Science with Python**, with a strong interest in applying them to real-world challenges such as climate analysis and prediction.
+- 💼 I have over **5 years of experience** building production software, starting in mobile and growing into full-stack work across **Flutter, React, Next.js, Python and Node.js**.
 
-- 💬 I enjoy connecting with others about **Flutter, Swift, and Laravel**, and I’m always open to sharing ideas and learning through collaboration.
+- 🏗️ I care about **clean architecture, state management** (BLoC, Riverpod, Provider) and performance — 60fps UI, efficient memory, code that stays maintainable as it scales.
 
-- 💼 I have over **4 years of experience in mobile application development**, with a current focus on building high-quality cross-platform applications using **Flutter**.
+- 🌱 I’m studying **mathematics and AI research** in a structured way — currently *Mathematics for Computer Science* (number bases, sequences and series) alongside *AI For Everyone*, working towards reading and reproducing machine learning papers.
 
-- 🚀 I’m currently working across the full stack, developing backend systems with **Python**, frontend applications with **Next.js**, and mobile apps with **Flutter**.
+- 💬 Happy to talk about **Flutter, Swift, Next.js and backend design**, and always open to sharing ideas and learning through collaboration.
 
 - ⚡ I enjoy solving complex problems through code. Programming is both a passion and a rewarding challenge for me.
 
