@@ -24,6 +24,16 @@
 - ⚡ I enjoy solving complex problems through code. Programming is both a passion and a rewarding challenge for me.
 
 
+<h2> 💼 Experience </h2>
+
+| Role | Company | Location | Period |
+|---|---|---|---|
+| Full Stack Developer | Beyond Climate Solutions | Pathum Thani, Thailand | 02/2026 – Present |
+| Senior Flutter Developer | JoyGroup International | Bangkok, Thailand | 11/2023 – 08/2025 |
+| Mid Senior Flutter Developer | App.com.mm | Yangon, Myanmar | 04/2023 – 11/2023 |
+| Junior Flutter Developer | PanaceaSoft | Yangon, Myanmar | 09/2022 – 04/2023 |
+| Junior Flutter Developer | TechPlusSolution | Yangon, Myanmar | 04/2021 – 09/2022 |
+
 <h2> 📚 Currently Learning </h2>
 
 Working through mathematics, machine learning, and paper reading so I can understand,
