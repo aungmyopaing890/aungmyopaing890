@@ -28,11 +28,11 @@
 
 | Role | Company | Location | Period |
 |---|---|---|---|
-| Full Stack Developer | Beyond Climate Solutions | Pathum Thani, Thailand | 02/2026 – Present |
-| Senior Flutter Developer | JoyGroup International | Bangkok, Thailand | 11/2023 – 08/2025 |
-| Mid Senior Flutter Developer | App.com.mm | Yangon, Myanmar | 04/2023 – 11/2023 |
+| Full Stack Developer | Beyond Climate Solutions | Pathum Thani, Thailand | 01/2026 – Present |
+| Senior Flutter Developer | JoyGroup International | Bangkok, Thailand | 11/2023 – 07/2025 |
+| Senior Flutter Developer | App.com.mm | Yangon, Myanmar | 04/2023 – 11/2023 |
 | Junior Flutter Developer | PanaceaSoft | Yangon, Myanmar | 09/2022 – 04/2023 |
-| Junior Flutter Developer | TechPlusSolution | Yangon, Myanmar | 04/2021 – 09/2022 |
+| Junior Flutter Developer / Intern | TechPlusSolutions | Yangon, Myanmar | 04/2021 – 08/2022 |
 
 <h2> 📚 Currently Learning </h2>
 
@@ -115,19 +115,33 @@ One course + one maths topic + one paper + one project at a time — no collecti
 
 <h2> 𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px></h2>  
 
-| App | Built with | Links |
-|---|---|---|
-| **AMP POS** | Flutter | <a href="https://play.google.com/store/apps/details?id=com.tps.amppos">PlayStore</a> · <a href="https://apps.apple.com/us/app/amp-pos/id1644138389">AppStore</a> |
-| **KweeLaMin** | Flutter · Firebase · Provider · Clean Architecture | <a href="https://play.google.com/store/apps/details?id=com.hapeye.kweelamin">PlayStore</a> · <a href="https://apps.apple.com/cy/app/kwee-lamin/id6451135120">AppStore</a> |
-| **BinaryComputerStore** | Flutter · GraphQL · BLoC · WebRTC | <a href="https://play.google.com/store/apps/details?id=com.hepeye.binary">PlayStore</a> · <a href="https://apps.apple.com/cy/app/binarycomputerstore/id6450131505">AppStore</a> |
-| **EcoChic** | Flutter | <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.ecochic">PlayStore</a> · <a href="https://apps.apple.com/cy/app/eco-chic/id6451831578">AppStore</a> |
-| **ShwePhoneShein** | Flutter | <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.shwephoneshein">PlayStore</a> · <a href="https://apps.apple.com/cy/app/shwe-phone-shein/id6463791308">AppStore</a> |
-| **RoyalCollection** | Flutter · Firebase · GetX · Go Router · Clean Architecture | <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.royalcollection">PlayStore</a> · <a href="https://apps.apple.com/cy/app/royal-collection/id6449526605">AppStore</a> |
-| **Food.com.mm** | Flutter · Firebase · Provider · Clean Architecture | <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.food.com.mm">PlayStore</a> · <a href="https://apps.apple.com/cy/app/food-com-mm/id6446515746">AppStore</a> |
-| **Prim Decent** | Flutter | <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.primedecant">PlayStore</a> · <a href="https://apps.apple.com/cy/app/prim-decant/id6447068015">AppStore</a> |
-| **WisdomTreeLibrary** | Flutter · Firebase · Riverpod · Go Router · Clean Architecture | <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.wisdomtree">PlayStore</a> · <a href="https://apps.apple.com/cy/app/wisdom-tree-library/id6464262162">AppStore</a> |
+### Published apps
 
-Also built, not publicly listed above: **GR News** (Flutter · Pushy · Provider), **XH Express** (Flutter · Go Router · qr_code_scanner), **汇率员** (Flutter · BLoC · Firebase), **Shwe Pyae Phyo** (Flutter · REST API · BLoC · Hive).
+| App | Year | Built with | Links |
+|---|---|---|---|
+| **KweeLaMin** — food delivery | 2023 | Flutter · Riverpod · Firebase · Google Maps · Mapbox · Clean Architecture | <a href="https://play.google.com/store/apps/details?id=com.hapeye.kweelamin">PlayStore</a> · <a href="https://apps.apple.com/cy/app/kwee-lamin/id6451135120">AppStore</a> |
+| **BinaryComputerStore** — electronics commerce | 2023 | Flutter · GraphQL · BLoC · WebRTC | <a href="https://play.google.com/store/apps/details?id=com.hepeye.binary">PlayStore</a> · <a href="https://apps.apple.com/cy/app/binarycomputerstore/id6450131505">AppStore</a> |
+| **RoyalCollection** — beauty commerce | 2023 | Flutter · Firebase · GetX · Go Router · Clean Architecture | <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.royalcollection">PlayStore</a> · <a href="https://apps.apple.com/cy/app/royal-collection/id6449526605">AppStore</a> |
+| **AMP POS** | — | Flutter | <a href="https://play.google.com/store/apps/details?id=com.tps.amppos">PlayStore</a> · <a href="https://apps.apple.com/us/app/amp-pos/id1644138389">AppStore</a> |
+| **EcoChic** | — | Flutter | <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.ecochic">PlayStore</a> · <a href="https://apps.apple.com/cy/app/eco-chic/id6451831578">AppStore</a> |
+| **ShwePhoneShein** | — | Flutter | <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.shwephoneshein">PlayStore</a> · <a href="https://apps.apple.com/cy/app/shwe-phone-shein/id6463791308">AppStore</a> |
+| **Food.com.mm** | — | Flutter · Firebase · Provider · Clean Architecture | <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.food.com.mm">PlayStore</a> · <a href="https://apps.apple.com/cy/app/food-com-mm/id6446515746">AppStore</a> |
+| **Prim Decent** | — | Flutter | <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.primedecant">PlayStore</a> · <a href="https://apps.apple.com/cy/app/prim-decant/id6447068015">AppStore</a> |
+| **WisdomTreeLibrary** | — | Flutter · Firebase · Riverpod · Go Router · Clean Architecture | <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.wisdomtree">PlayStore</a> · <a href="https://apps.apple.com/cy/app/wisdom-tree-library/id6464262162">AppStore</a> |
+
+### Other project work
+
+| Project | Year | Role | Built with |
+|---|---|---|---|
+| **ANyarMyay Distributor Platform** — admin web, distributor app and API | 2025 | Full Stack Developer | NestJS · Prisma · PostgreSQL · Next.js · Zustand · Flutter · Riverpod · WebSockets · Docker · Nginx · CI/CD |
+| **Customer Support Chat System** — real-time multi-channel support | 2025 | Senior Flutter Developer | Flutter · Riverpod · WebSockets · Socket.IO · Clean Architecture |
+| **Exchange Rate & Commodity Tracking** | 2025 | Mobile Developer | Flutter · BLoC · Dio · Retrofit · Firebase · Syncfusion Charts · Flutter Flavors |
+| **News Application** — global and local news feeds | 2025 | Mobile Developer | Flutter · Provider · Pushy · REST APIs · Clean Architecture |
+| **Cross-Border Logistics Platform** — China–Myanmar user and rider apps | 2023–2024 | Senior Flutter Developer | Flutter · Provider · Go Router · Clean Architecture · QR scanning |
+| **ShwePyaePhyo** — gold and jewellery commerce | 2023 | Flutter Developer | Flutter · BLoC · Hive · REST APIs · Localization |
+| **Multi-Vendor E-Commerce Platform** — 10,000+ users | 2023 | Junior Flutter Developer | Flutter · Provider · Firebase · Payment gateways · Clean Architecture |
+| **City Guide Directory Platform** — app, web and admin panel | 2023 | Mobile Developer | Flutter · Laravel · MySQL · Firebase · Real-time chat · Payment gateways |
+| **Sanzarnibo** — astrology and BayDin consultations | 2021–2022 | Mobile Developer | Flutter · Riverpod · Firebase · Audio/PDF delivery · KBZPay · MPT Pay |
 
 
 
