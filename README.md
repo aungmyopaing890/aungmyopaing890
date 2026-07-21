@@ -24,6 +24,27 @@
 - ⚡ I enjoy solving complex problems through code. Programming is both a passion and a rewarding challenge for me.
 
 
+<h2> 📚 Currently Learning </h2>
+
+Working through mathematics, machine learning, and paper reading so I can understand,
+reproduce, and eventually write AI research papers. **12–18 months, 8–10 hrs/week.**
+One course + one maths topic + one paper + one project at a time — no collecting certificates.
+
+<p align="left">
+<img src="https://img.shields.io/badge/Maths%20for%20Computer%20Science-Modules%201--2%20of%204-2ea44f?style=flat-square" alt="Mathematics for Computer Science: modules 1-2 of 4" />
+<img src="https://img.shields.io/badge/Practice%20assignments-6%20passed%20%C2%B7%20avg%2098%25-2ea44f?style=flat-square" alt="6 practice assignments passed, average 98%" />
+<img src="https://img.shields.io/badge/AI%20For%20Everyone-Just%20started-yellow?style=flat-square" alt="AI For Everyone: just started" />
+<img src="https://img.shields.io/badge/Research%20Paper%20Assistant-In%20progress-yellow?style=flat-square" alt="Research Paper Assistant: in progress" />
+</p>
+
+| Track | Current topic |
+|---|---|
+| Mathematics | Module 2 — operations with binary numbers, number representation |
+| AI course | AI For Everyone |
+| Project | Research Paper Assistant — defining the first useful version |
+
+**Up next:** sequences and series · Machine Learning Specialization · first paper summaries.
+
 <h2 align="left">📫 How to reach me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px></h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/aungmyo-paing-080160148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in//aungmyo-paing-080160148" height="30" width="40" /></a>
