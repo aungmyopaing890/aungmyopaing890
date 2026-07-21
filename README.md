@@ -59,6 +59,7 @@ One course + one maths topic + one paper + one project at a time — no collecti
 <p align="left">
 <a href="https://www.linkedin.com/in/aungmyo-paing-080160148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in//aungmyo-paing-080160148" height="30" width="40" /></a>
 <a href="https://fb.com/amp942018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amp942018" height="30" width="40" /></a>
+<a href="mailto:aungmyopaing890@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="aungmyopaing890@gmail.com" height="28" /></a>
 </p>
 
 
@@ -114,24 +115,19 @@ One course + one maths topic + one paper + one project at a time — no collecti
 
 <h2> 𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px></h2>  
 
-- AMP POS  <a href="https://play.google.com/store/apps/details?id=com.tps.amppos">PlayStore</a>  <a href="https://apps.apple.com/us/app/amp-pos/id1644138389">AppStore</a>
+| App | Built with | Links |
+|---|---|---|
+| **AMP POS** | Flutter | <a href="https://play.google.com/store/apps/details?id=com.tps.amppos">PlayStore</a> · <a href="https://apps.apple.com/us/app/amp-pos/id1644138389">AppStore</a> |
+| **KweeLaMin** | Flutter · Firebase · Provider · Clean Architecture | <a href="https://play.google.com/store/apps/details?id=com.hapeye.kweelamin">PlayStore</a> · <a href="https://apps.apple.com/cy/app/kwee-lamin/id6451135120">AppStore</a> |
+| **BinaryComputerStore** | Flutter · GraphQL · BLoC · WebRTC | <a href="https://play.google.com/store/apps/details?id=com.hepeye.binary">PlayStore</a> · <a href="https://apps.apple.com/cy/app/binarycomputerstore/id6450131505">AppStore</a> |
+| **EcoChic** | Flutter | <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.ecochic">PlayStore</a> · <a href="https://apps.apple.com/cy/app/eco-chic/id6451831578">AppStore</a> |
+| **ShwePhoneShein** | Flutter | <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.shwephoneshein">PlayStore</a> · <a href="https://apps.apple.com/cy/app/shwe-phone-shein/id6463791308">AppStore</a> |
+| **RoyalCollection** | Flutter · Firebase · GetX · Go Router · Clean Architecture | <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.royalcollection">PlayStore</a> · <a href="https://apps.apple.com/cy/app/royal-collection/id6449526605">AppStore</a> |
+| **Food.com.mm** | Flutter · Firebase · Provider · Clean Architecture | <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.food.com.mm">PlayStore</a> · <a href="https://apps.apple.com/cy/app/food-com-mm/id6446515746">AppStore</a> |
+| **Prim Decent** | Flutter | <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.primedecant">PlayStore</a> · <a href="https://apps.apple.com/cy/app/prim-decant/id6447068015">AppStore</a> |
+| **WisdomTreeLibrary** | Flutter · Firebase · Riverpod · Go Router · Clean Architecture | <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.wisdomtree">PlayStore</a> · <a href="https://apps.apple.com/cy/app/wisdom-tree-library/id6464262162">AppStore</a> |
 
-- KweeLaMin <a href="https://play.google.com/store/apps/details?id=com.hapeye.kweelamin">PlayStore</a>  <a href="https://apps.apple.com/cy/app/kwee-lamin/id6451135120">AppStore</a>
-
-- BinaryComputerStore <a href="https://play.google.com/store/apps/details?id=com.hepeye.binary">PlayStore</a>  <a href="https://apps.apple.com/cy/app/binarycomputerstore/id6450131505">AppStore</a>
-
-- EcoChic PlayStore <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.ecochic">PlayStore</a>  <a href="https://apps.apple.com/cy/app/eco-chic/id6451831578">AppStore</a>
-
-- ShwePhoneShein <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.shwephoneshein">PlayStore</a>  <a href="https://apps.apple.com/cy/app/shwe-phone-shein/id6463791308">AppStore</a>
-
-- RoyalCollection <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.royalcollection">PlayStore</a>  <a href="https://apps.apple.com/cy/app/royal-collection/id6449526605">AppStore</a>
-
-- Food.com.mm  <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.food.com.mm">PlayStore</a>  <a href="https://apps.apple.com/cy/app/food-com-mm/id6446515746">AppStore</a>
-
-- Prim Decent PlayStore <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.primedecant">PlayStore</a>  <a href="https://apps.apple.com/cy/app/prim-decant/id6447068015">AppStore</a>
-
-
-- WisdomTreeLibrary PlayStore <a href="https://play.google.com/store/apps/details?id=com.hapeyecoltd.wisdomtree">PlayStore</a>  <a href="https://apps.apple.com/cy/app/wisdom-tree-library/id6464262162">AppStore</a>
+Also built, not publicly listed above: **GR News** (Flutter · Pushy · Provider), **XH Express** (Flutter · Go Router · qr_code_scanner), **汇率员** (Flutter · BLoC · Firebase), **Shwe Pyae Phyo** (Flutter · REST API · BLoC · Hive).
 
 
 
