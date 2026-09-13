@@ -17,7 +17,7 @@
 
 - 🏗️ I care about **clean architecture, state management** (BLoC, Riverpod, Provider) and performance — 60fps UI, efficient memory, code that stays maintainable as it scales.
 
-- 🌱 I’m studying **mathematics and AI research** in a structured way — currently *Mathematics for Computer Science* (number bases, sequences and series) alongside *AI For Everyone*, working towards reading and reproducing machine learning papers.
+- 🌱 I’m studying **mathematics and machine learning engineering** in a structured way — focusing deeply on higher mathematics (algebraic structures, proofs and analysis) alongside newly started foundations in **LLM pretraining**, **multi-agent systems**, and **physical computing / IoT**.
 
 - 💬 Happy to talk about **Flutter, Swift, Next.js and backend design**, and always open to sharing ideas and learning through collaboration.
 
@@ -36,24 +36,24 @@
 
 <h2> 📚 Currently Learning </h2>
 
-Working through mathematics, machine learning, and paper reading so I can understand,
-reproduce, and eventually write AI research papers. **12–18 months, 8–10 hrs/week.**
-One course + one maths topic + one paper + one project at a time — no collecting certificates.
+Studying higher mathematics and engineering foundations in artificial intelligence from first principles.
+One primary mathematical topic + hands-on engineering exploration at a time — depth over breadth.
 
 <p align="left">
-<img src="https://img.shields.io/badge/Maths%20for%20Computer%20Science-Modules%201--2%20of%204-2ea44f?style=flat-square" alt="Mathematics for Computer Science: modules 1-2 of 4" />
-<img src="https://img.shields.io/badge/Practice%20assignments-6%20passed%20%C2%B7%20avg%2098%25-2ea44f?style=flat-square" alt="6 practice assignments passed, average 98%" />
-<img src="https://img.shields.io/badge/AI%20For%20Everyone-Just%20started-yellow?style=flat-square" alt="AI For Everyone: just started" />
-<img src="https://img.shields.io/badge/Research%20Paper%20Assistant-In%20progress-yellow?style=flat-square" alt="Research Paper Assistant: in progress" />
+<img src="https://img.shields.io/badge/Mathematics%20for%20AI-In%20Progress-2ea44f?style=flat-square" alt="Mathematics for AI: In Progress" />
+<img src="https://img.shields.io/badge/LLM%20Pretraining%20Engineering-Just%20Started-orange?style=flat-square" alt="LLM Pretraining Engineering: Just Started" />
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-Just%20Started-orange?style=flat-square" alt="Multi-Agent Systems: Just Started" />
+<img src="https://img.shields.io/badge/Physical%20Computing%20%26%20IoT-Just%20Started-orange?style=flat-square" alt="Physical Computing & IoT: Just Started" />
 </p>
 
-| Track | Current topic |
-|---|---|
-| Mathematics | Module 2 — operations with binary numbers, number representation |
-| AI course | AI For Everyone |
-| Project | Research Paper Assistant — defining the first useful version |
+| Track | Focus Area | Current Stage |
+|---|---|---|
+| 📐 **Mathematics for AI** | Functions, transformations, algebraic foundations & proofs | **In Progress** |
+| ⚙️ **LLM Pretraining** | Building BPE tokenizers from scratch, exploring attention mechanisms in PyTorch | **Just Started** |
+| 🤖 **Multi-Agent Systems** | Designing agent workflows, state machines, and tool orchestration with LangGraph | **Just Started** |
+| 🔌 **Physical Computing & IoT** | Arduino Uno hardware, basic circuits, and Python serial data logging | **Just Started** |
 
-**Up next:** sequences and series · Machine Learning Specialization · first paper summaries.
+**Up next:** Linear algebra & multivariate calculus · PyTorch transformer training loops · multi-agent benchmark workflows.
 
 <h2 align="left">📫 How to reach me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px></h2>
 <p align="left">
@@ -97,6 +97,20 @@ One course + one maths topic + one paper + one project at a time — no collecti
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+</p>
+
+**AI, Machine Learning & Physical Computing (Foundations)**
+<p align="left">
+<a href="https://pytorch.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
+<a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a>
+</p>
+<p align="left">
+<img src="https://img.shields.io/badge/Transformers-FFA800?style=flat-square&logo=huggingface&logoColor=white" alt="Transformers" />
+<img src="https://img.shields.io/badge/BPE%20Tokenizers-333333?style=flat-square" alt="BPE Tokenizers" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-4A154B?style=flat-square" alt="Multi-Agent Orchestration" />
 </p>
 
 **Flutter architecture & state management**
