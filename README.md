@@ -162,8 +162,16 @@ One primary mathematical topic + hands-on engineering exploration at a time — 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=aungmyopaing890&show_icons=true&theme=default" alt="Aungmyopaing's GitHub stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aungmyopaing890&layout=compact&theme=default" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=aungmyopaing890&show_icons=true&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=aungmyopaing890&show_icons=true&theme=default" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=aungmyopaing890&show_icons=true&theme=github_dark" alt="Aungmyopaing's GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aungmyopaing890&layout=compact&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aungmyopaing890&layout=compact&theme=default" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aungmyopaing890&layout=compact&theme=github_dark" alt="Top languages" />
+  </picture>
 </p>
 
 
